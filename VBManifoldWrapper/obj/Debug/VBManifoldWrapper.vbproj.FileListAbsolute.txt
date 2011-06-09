@@ -1,0 +1,26 @@
+D:\development\SANDBOX\ManifoldMapEdit\VBManifoldWrapper\bin\Debug\VBManifoldWrapper.dll
+D:\development\SANDBOX\ManifoldMapEdit\VBManifoldWrapper\bin\Debug\VBManifoldWrapper.pdb
+D:\development\SANDBOX\ManifoldMapEdit\VBManifoldWrapper\bin\Debug\VBManifoldWrapper.xml
+D:\development\SANDBOX\ManifoldMapEdit\VBManifoldWrapper\bin\Debug\AxInterop.Manifold.dll
+D:\development\SANDBOX\ManifoldMapEdit\VBManifoldWrapper\obj\Debug\ResolveAssemblyReference.cache
+D:\development\SANDBOX\ManifoldMapEdit\VBManifoldWrapper\obj\Debug\AxInterop.Manifold.dll
+D:\development\SANDBOX\ManifoldMapEdit\VBManifoldWrapper\obj\Debug\VBManifoldWrapper.vbproj.ResolveComReference.cache
+D:\development\SANDBOX\ManifoldMapEdit\VBManifoldWrapper\obj\Debug\VBManifoldWrapper.Resources.resources
+D:\development\SANDBOX\ManifoldMapEdit\VBManifoldWrapper\obj\Debug\GenerateResource.read.1.tlog
+D:\development\SANDBOX\ManifoldMapEdit\VBManifoldWrapper\obj\Debug\GenerateResource.write.1.tlog
+D:\development\SANDBOX\ManifoldMapEdit\VBManifoldWrapper\obj\Debug\VBManifoldWrapper.dll
+D:\development\SANDBOX\ManifoldMapEdit\VBManifoldWrapper\obj\Debug\VBManifoldWrapper.xml
+D:\development\SANDBOX\ManifoldMapEdit\VBManifoldWrapper\obj\Debug\VBManifoldWrapper.pdb
+D:\development\SANDBOX\Manifold MapControl Utilities\VBManifoldWrapper\bin\Debug\VBManifoldWrapper.dll
+D:\development\SANDBOX\Manifold MapControl Utilities\VBManifoldWrapper\bin\Debug\VBManifoldWrapper.pdb
+D:\development\SANDBOX\Manifold MapControl Utilities\VBManifoldWrapper\bin\Debug\VBManifoldWrapper.xml
+D:\development\SANDBOX\Manifold MapControl Utilities\VBManifoldWrapper\bin\Debug\AxInterop.Manifold.dll
+D:\development\SANDBOX\Manifold MapControl Utilities\VBManifoldWrapper\obj\Debug\ResolveAssemblyReference.cache
+D:\development\SANDBOX\Manifold MapControl Utilities\VBManifoldWrapper\obj\Debug\AxInterop.Manifold.dll
+D:\development\SANDBOX\Manifold MapControl Utilities\VBManifoldWrapper\obj\Debug\VBManifoldWrapper.vbproj.ResolveComReference.cache
+D:\development\SANDBOX\Manifold MapControl Utilities\VBManifoldWrapper\obj\Debug\VBManifoldWrapper.Resources.resources
+D:\development\SANDBOX\Manifold MapControl Utilities\VBManifoldWrapper\obj\Debug\GenerateResource.read.1.tlog
+D:\development\SANDBOX\Manifold MapControl Utilities\VBManifoldWrapper\obj\Debug\GenerateResource.write.1.tlog
+D:\development\SANDBOX\Manifold MapControl Utilities\VBManifoldWrapper\obj\Debug\VBManifoldWrapper.dll
+D:\development\SANDBOX\Manifold MapControl Utilities\VBManifoldWrapper\obj\Debug\VBManifoldWrapper.xml
+D:\development\SANDBOX\Manifold MapControl Utilities\VBManifoldWrapper\obj\Debug\VBManifoldWrapper.pdb

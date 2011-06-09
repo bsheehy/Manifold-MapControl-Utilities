@@ -1,0 +1,32 @@
+D:\development\SANDBOX\ManifoldMapEdit\ManifoldMapEdit\bin\Debug\ManifoldMapEdit.exe
+D:\development\SANDBOX\ManifoldMapEdit\ManifoldMapEdit\bin\Debug\ManifoldMapEdit.pdb
+D:\development\SANDBOX\ManifoldMapEdit\ManifoldMapEdit\bin\Debug\AxInterop.Manifold.dll
+D:\development\SANDBOX\ManifoldMapEdit\ManifoldMapEdit\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\development\SANDBOX\ManifoldMapEdit\ManifoldMapEdit\obj\x86\Debug\AxInterop.Manifold.dll
+D:\development\SANDBOX\ManifoldMapEdit\ManifoldMapEdit\obj\x86\Debug\ManifoldMapEdit.csproj.ResolveComReference.cache
+D:\development\SANDBOX\ManifoldMapEdit\ManifoldMapEdit\obj\x86\Debug\ManifoldMapEdit.Properties.Resources.resources
+D:\development\SANDBOX\ManifoldMapEdit\ManifoldMapEdit\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\development\SANDBOX\ManifoldMapEdit\ManifoldMapEdit\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\development\SANDBOX\ManifoldMapEdit\ManifoldMapEdit\obj\x86\Debug\ManifoldMapEdit.exe
+D:\development\SANDBOX\ManifoldMapEdit\ManifoldMapEdit\obj\x86\Debug\ManifoldMapEdit.pdb
+D:\development\SANDBOX\ManifoldMapEdit\ManifoldMapEdit\bin\Debug\Map\K1431158.map
+D:\development\SANDBOX\ManifoldMapEdit\ManifoldMapEdit\bin\Debug\VBManifoldWrapper.dll
+D:\development\SANDBOX\ManifoldMapEdit\ManifoldMapEdit\obj\x86\Debug\ManifoldMapEdit.frmMap.resources
+D:\development\SANDBOX\ManifoldMapEdit\ManifoldMapEdit\bin\Debug\VBManifoldWrapper.pdb
+D:\development\SANDBOX\ManifoldMapEdit\ManifoldMapEdit\bin\Debug\VBManifoldWrapper.xml
+D:\development\SANDBOX\Manifold MapControl Utilities\ManifoldMapEdit\obj\x86\Debug\AxInterop.Manifold.dll
+D:\development\SANDBOX\Manifold MapControl Utilities\ManifoldMapEdit\obj\x86\Debug\ManifoldMapEdit.csproj.ResolveComReference.cache
+D:\development\SANDBOX\Manifold MapControl Utilities\ManifoldMapEdit\obj\x86\Debug\ManifoldMapEdit.exe
+D:\development\SANDBOX\Manifold MapControl Utilities\ManifoldMapEdit\obj\x86\Debug\ManifoldMapEdit.pdb
+D:\development\SANDBOX\Manifold MapControl Utilities\ManifoldMapEdit\bin\Debug\Map\K1431158.map
+D:\development\SANDBOX\Manifold MapControl Utilities\ManifoldMapEdit\bin\Debug\ManifoldMapEdit.exe
+D:\development\SANDBOX\Manifold MapControl Utilities\ManifoldMapEdit\bin\Debug\ManifoldMapEdit.pdb
+D:\development\SANDBOX\Manifold MapControl Utilities\ManifoldMapEdit\bin\Debug\VBManifoldWrapper.dll
+D:\development\SANDBOX\Manifold MapControl Utilities\ManifoldMapEdit\bin\Debug\AxInterop.Manifold.dll
+D:\development\SANDBOX\Manifold MapControl Utilities\ManifoldMapEdit\bin\Debug\VBManifoldWrapper.pdb
+D:\development\SANDBOX\Manifold MapControl Utilities\ManifoldMapEdit\bin\Debug\VBManifoldWrapper.xml
+D:\development\SANDBOX\Manifold MapControl Utilities\ManifoldMapEdit\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\development\SANDBOX\Manifold MapControl Utilities\ManifoldMapEdit\obj\x86\Debug\ManifoldMapEdit.frmMap.resources
+D:\development\SANDBOX\Manifold MapControl Utilities\ManifoldMapEdit\obj\x86\Debug\ManifoldMapEdit.Properties.Resources.resources
+D:\development\SANDBOX\Manifold MapControl Utilities\ManifoldMapEdit\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\development\SANDBOX\Manifold MapControl Utilities\ManifoldMapEdit\obj\x86\Debug\GenerateResource.write.1.tlog

@@ -1,0 +1,24 @@
+Alot of people (including myself) have asked on the community forum about editing features of the Manifold activeX MapControl. Many people have helped me on the forum so I thought I'd give a little back. I've added a Visual Studio 2010 .Net C# project which shows how this can be done. 
+
+Manifold® is a powerful, full-featured modern Geographic Information System (GIS) package.  It is a combination of mapping, CAD, DBMS and image processing. It provides an ActiveX MapControl and accompanying API that users can use to develop their own applications. 
+
+Sorry about the code its a little bit bloated but it works. 
+
+As of 9th june 2011 the application the following functionality:
+
+Draw point
+
+Draw Line
+
+Draw Polygon
+
+Edit - Move Point
+
+Edit - Add Coordinate
+
+Edit - Delete Coordinate
+
+Edit - Move Geom
+
+The 'Add Coordinate' needs a bit of work e.g. dosnt work when the points you ade adding the new coordinate between is close together..
+
